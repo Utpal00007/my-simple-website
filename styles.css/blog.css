@@ -4,3 +4,7 @@ div{
     margin: 10px;
     
 }
+img{
+    width: 100px;
+    border: 10px solid rgb(32, 21, 19);
+}
